@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keerthik-T&color=1D9E75&style=flat-square&label=PROFILE+SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthik1886&color=1D9E75&style=flat-square&label=PROFILE+SCANS)
 ![Focus](https://img.shields.io/badge/MODE-DEEP_FOCUS-1D9E75?style=flat-square)
 ![Type](https://img.shields.io/badge/COGNITIVE_TYPE-INTP%5BTe%5D-534AB7?style=flat-square)
 ![Streak](https://img.shields.io/badge/LANG_STREAK-日本語_▲_ACTIVE-0F6E56?style=flat-square)
@@ -172,12 +172,12 @@ proficiency_map = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthik-T&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthik-T&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthik1886&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthik1886&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik-T&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik1886&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
 
 </div>
 
@@ -207,17 +207,25 @@ class KeerthikT:
 
 ## `[08]` Establish Connection
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthik-T&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthik-T&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik-T&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
+[![GitHub](https://img.shields.io/badge/GitHub-Keerthik1886-181717?style=flat-square&logo=github)](https://github.com/Keerthik1886)
+![Location](https://img.shields.io/badge/Location-Tamil_Nadu,_IN-0F6E56?style=flat-square)
+![Timezone](https://img.shields.io/badge/Timezone-IST_UTC+5:30-534AB7?style=flat-square)
+![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-1679A7?style=flat-square)
 
 </div>
+
 ---
+
+<div align="center">
+
+*"Breadth is a distraction until depth is achieved."*
+
+`keerthik-t · README.md · last_commit: now` █
+
+</div>
+
 
 <div align="center">
 
