@@ -207,15 +207,16 @@ class KeerthikT:
 
 ## `[08]` Establish Connection
 
-<div align="left">
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Keerthik--T-181717?style=flat-square&logo=github)](https://github.com/Keerthik-T)
-![Location](https://img.shields.io/badge/Location-Tamil_Nadu,_IN-0F6E56?style=flat-square)
-![Timezone](https://img.shields.io/badge/Timezone-IST_UTC+5:30-534AB7?style=flat-square)
-![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-1679A7?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthik-T&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthik-T&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik-T&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
 
 </div>
-
 ---
 
 <div align="center">
