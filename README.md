@@ -172,12 +172,16 @@ proficiency_map = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthik1886&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthik1886&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthik-T&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
+<img src="https://streak-stats.demolab.com?user=Keerthik-T&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik1886&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik-T&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
+
+</div>
+
+
 
 </div>
 
