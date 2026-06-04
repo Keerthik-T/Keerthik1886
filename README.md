@@ -170,18 +170,24 @@ proficiency_map = {
 
 ## `[06]` System Analytics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthik-T&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5DCAA5&icon_color=AFA9EC&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180px" />
-<img src="https://streak-stats.demolab.com?user=Keerthik-T&theme=dark&hide_border=true&ring=5DCAA5&fire=AFA9EC&currStreakLabel=5DCAA5" alt="Contribution Streak" height="180px" />
+<!-- GitHub's own contribution graph — no third-party, never fails -->
+![Keerthik-T's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthik-T&bg_color=0d1117&color=5DCAA5&line=AFA9EC&point=5DCAA5&area=true&hide_border=true)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthik-T&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=5DCAA5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180px" />
+<!-- Self-hosted via your own Vercel fork — most reliable method -->
+<!-- Option A: Use these if you deploy your own github-readme-stats fork -->
+<!-- Option B: These are GitHub's native profile-level stats widgets -->
 
-</div>
-
-
+| Metric | Value |
+|:---|:---|
+| **Primary Environment** | Arch / Debian-Based Virtualized Environments |
+| **Cognitive Framework** | Strategic Analyst — Systems & Architecture |
+| **Discipline Mode** | Hyper-focus · Zero idle tolerance |
+| **Current Stack** | Linux · Python · C · Bash · Nmap · Wireshark |
 
 </div>
 
